@@ -17,7 +17,18 @@ https://github.com/ygahn3361-dev/t
 깃허브 user.name은 ygahn3361-dev 이고 깃허브 user.email은 ygahn3361@gmail.com이야. 이것을 PC에 설치된 깃 (Git)에 입력해 줘.
 
 
-https://github.com/ygahn3361-dev/t 에 내가 만든 모든 파일을 올려줘
+https://github.com/ygahn3361-dev/t 에 내가 만든 모든 파일을 올려줘.
+https://github.com/ygahn3361-dev/t 에 내가 만든 모든 파일을 올려줘. 나는 프로그래머가 아니야. 니가 스스로 올려줘.
 
+
+www.vercel.com
+> 무료 가입
+> Add New...
+> Project
+> 연결해줘...
+
+캡처화면
++
+vercel에서 화면이 깨졌어. 이 코드에 에러를 고쳐줘.
 
 
